@@ -18,15 +18,17 @@ This is a school management system built using **Django 4**, **HTML 5**, **CSS 3
 # 4. View all students
 ![view](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/4ba32494751e3574bae15c78f3270aa39dbe0481/ss/Screenshot%202025-04-01%20215646.png)
 
-![confirmation](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/f286d41a576a3f5b1c88f214d93bf0523e97849a/ss/Screenshot%202025-04-01%20120140.png)
+# 5. Apply for teacher
+![teachersignup](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/1f018be6d0aaf084bfc6937e10d186bce9627d96/ss/Screenshot%202025-04-01%20215955.png)
 
-# 5. Check updated details
-![checkupdated](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/ecff906eb307f6a337aa0289882fc4bde8d72977/ss/Screenshot%202025-04-01%20120206.png)
+![form](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/1f018be6d0aaf084bfc6937e10d186bce9627d96/ss/Screenshot%202025-04-01%20220101.png)
 
-# 6. Delete a student record
-![delete](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/ecff906eb307f6a337aa0289882fc4bde8d72977/ss/Screenshot%202025-04-01%20120229.png)
+# 6. Teacher approval by Admin
+![teachappdash](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/1f018be6d0aaf084bfc6937e10d186bce9627d96/ss/Screenshot%202025-04-01%20220145.png)
 
-# 7. Check student table
+![teachapp](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/1f018be6d0aaf084bfc6937e10d186bce9627d96/ss/Screenshot%202025-04-01%20220204.png)
+
+# 7. View all teachers
 ![checkstudent](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/ecff906eb307f6a337aa0289882fc4bde8d72977/ss/Screenshot%202025-04-01%20120242.png)
 
 # 8. Filter the data
