@@ -10,13 +10,13 @@ This is a school management system built using **Django 4**, **HTML 5**, **CSS 3
 
 ![add](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/8451b1eca9d7da3392b53bd8add8f80afcc7a8b4/ss/Screenshot%202025-04-01%20221355.png)
 
-# 3. View Student details
-![check](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/3e57c1d328d4bf946d6173f524399d76ea8c7c42/ss/Screenshot%202025-04-01%20120045.png)
+# 3. Approval by admin
+![approve](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/4ba32494751e3574bae15c78f3270aa39dbe0481/ss/Screenshot%202025-04-01%20215604.png)
 
-![viewdetails](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/3e57c1d328d4bf946d6173f524399d76ea8c7c42/ss/Screenshot%202025-04-01%20120055.png)
+![approved](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/4ba32494751e3574bae15c78f3270aa39dbe0481/ss/Screenshot%202025-04-01%20215620.png)
 
-# 4. Update Student details
-![update](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/f286d41a576a3f5b1c88f214d93bf0523e97849a/ss/Screenshot%202025-04-01%20120133.png)
+# 4. View all students
+![view](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/4ba32494751e3574bae15c78f3270aa39dbe0481/ss/Screenshot%202025-04-01%20215646.png)
 
 ![confirmation](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/f286d41a576a3f5b1c88f214d93bf0523e97849a/ss/Screenshot%202025-04-01%20120140.png)
 
