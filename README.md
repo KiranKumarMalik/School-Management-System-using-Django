@@ -1,6 +1,6 @@
 # School Management System
 
-This is a school management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** with a **Bootswatch** theme.
+This is a school management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** .
 
 # 1. Home Page (All Student Records)
 ![home](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/e6f88d42d3a580893bf63077c5ee43ec550db709/ss/Screenshot%202025-04-01%20214939.png)
@@ -29,10 +29,21 @@ This is a school management system built using **Django 4**, **HTML 5**, **CSS 3
 ![teachapp](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/1f018be6d0aaf084bfc6937e10d186bce9627d96/ss/Screenshot%202025-04-01%20220204.png)
 
 # 7. View all teachers
-![checkstudent](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/ecff906eb307f6a337aa0289882fc4bde8d72977/ss/Screenshot%202025-04-01%20120242.png)
+![viewstudent](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/930320d8fd16e88500042e1d734d81ba350c6034/ss/Screenshot%202025-04-01%20220223.png)
 
-# 8. Filter the data
-![filter](https://github.com/KiranKumarMalik/Student-Management-System-CRUD-Operation-in-Django/blob/317054dcc7ff4d058f14e21ec9003ce8bfc5fc4e/ss/Screenshot%202025-04-01%20114941.png)
+# 8. Fees according to Class Wise
+![feesclass](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/930320d8fd16e88500042e1d734d81ba350c6034/ss/Screenshot%202025-04-01%20215818.png)
+
+![fees](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/930320d8fd16e88500042e1d734d81ba350c6034/ss/Screenshot%202025-04-01%20215831.png)
+
+# 9. Notice
+![feesclass](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/930320d8fd16e88500042e1d734d81ba350c6034/ss/Screenshot%202025-04-01%20215910.png)
+
+# 10. Notice views
+![fees](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/930320d8fd16e88500042e1d734d81ba350c6034/ss/Screenshot%202025-04-01%20220306.png)
+
+# Admin Dashboard
+![admin](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/930320d8fd16e88500042e1d734d81ba350c6034/ss/Screenshot%202025-04-01%20220251.png)
 
 
 ## Table of Contents 
@@ -96,15 +107,6 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-### 5. Create an admin user to access the Django Admin interface
-
-From the **root** directory, run:
-
-```bash
-python manage.py createsuperuser
-```
-
-When prompted, enter a username, email, and password.
 
 ## Run the application
 
@@ -114,14 +116,6 @@ From the **root** directory, run:
 python manage.py runserver
 ```
 
-## Run the tests
-
-From the **root** directory, run:
-
-```bash
-python manage.py test --pattern="tests.py"
-
-```
 
 ## View the application
 
