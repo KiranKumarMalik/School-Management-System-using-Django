@@ -3,7 +3,7 @@
 This is a school management system built using **Django 4**, **HTML 5**, **CSS 3**, and **Bootstrap 5** .
 
 # 1. Home Page (All Student Records)
-![home](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/e6f88d42d3a580893bf63077c5ee43ec550db709/ss/Screenshot%202025-04-01%20214939.png)
+![home](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/6e5d82f565b5a81e4b11e8617438b0f8108fa253/ss/Screenshot%202025-04-09%20105701.png)
 
 # 2. Taking Admission
 ![signup](https://github.com/KiranKumarMalik/School-Management-System-using-Django/blob/8451b1eca9d7da3392b53bd8add8f80afcc7a8b4/ss/Screenshot%202025-04-01%20221310.png)
